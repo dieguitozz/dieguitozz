@@ -3,16 +3,6 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dieguitozz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D4D03AQHyjRnwh3uQPQ/profile-displayphoto-shrink_800_800/B4DZSPz1aeHUAg-/0/1737579520112?e=1767830400&v=beta&t=wpwh6_dzv2h5IaDkNw0D3BfRd2hBgSjznCSCPCMivUE"  />
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
